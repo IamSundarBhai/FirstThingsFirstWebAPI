@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="FirstThingsFirstWebAPI.csproj" />
+  <Project Path="../FirstThingsFirst.Application/FirstThingsFirst.Application.csproj" />
+  <Project Path="../FirstThingsFirst.Core/FirstThingsFirst.Core.csproj" />
+  <Project Path="../FirstThingsFirst.Infrastructure/FirstThingsFirst.Infrastructure.csproj" />
+  <Project Path="../irstThingsFirst.Persistence/FirstThingsFirst.Persistence.csproj" />
+  <Project Path="FirstThingsFirst.Api.csproj" />
 </Solution>
